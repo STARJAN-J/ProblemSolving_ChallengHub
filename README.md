@@ -1,5 +1,5 @@
 # 💡Java Foundation Programming Practice
-Welcome to the "Java Foundation Programming Practice" repository! This repository showcases my dedication to honing programming skills, particularly in Java. I have successfully solved over 300 problems, covering a wide range of foundational and array topics.
+Welcome to the "Java Foundation Programming Practice" repository! This repository showcases my dedication to honing programming skills, particularly in Java. I have successfully solved over 300+ problems, covering a wide range of foundational and array topics.
 
 # 🌟Problem Categories:
 📌 Basic Foundation Problems (200+ Problems)
