@@ -3,7 +3,7 @@ Welcome to the "Java Foundation Programming Practice" repository! This repositor
 
 # 🌟Problem Categories:
 📌 Basic Foundation Problems (200+ Problems)
-Explore a diverse set of fundamental programming challenges, spanning concepts like loops, conditionals, and basic algorithms. These problems are designed to strengthen your understanding of core Java concepts.
+Explore a diverse set of fundamental programming challenges, spanning concepts like loops, conditionals, and basic algorithms. These problems are designed to strengthen my understanding of core Java concepts.
 
 📌 Array Problems (150+ Problems)
 Dive deep into the world of arrays with a collection of 150+ problems. From basic array manipulations to more complex problem-solving using arrays, this section is a testament to my proficiency in handling array-related challenges.
